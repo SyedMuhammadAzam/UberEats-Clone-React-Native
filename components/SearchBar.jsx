@@ -50,7 +50,7 @@ const SearchBar = ({ cityHandler }) => {
           </View>
         )}
         query={{
-          key: "AIzaSyBnJY_S5D0yKnU4XCZll5-57jSL526VjFU",
+          key: "YOUR_API_KEY_HERE",
         }}
         onPress={(data, details = null) => {
           // 'details' is provided when fetchDetails = true
