@@ -1,0 +1,16 @@
+{
+    "expo": {
+     "name": "ubereats",
+     "icon": "./ubereats.png",
+     "version": "1.0.0",
+     "slug": "uber-eats",
+     "ios": {
+       "bundleIdentifier": "com.azam.ubereats",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.azam.ubereats",
+       "versionCode": 1
+     }
+    }
+  }
